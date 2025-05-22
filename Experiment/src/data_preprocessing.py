@@ -55,7 +55,7 @@ def data_preprocess(df, text_column="Message", target_column= "Category"):
         logger.debug("Starting preprocessing the data frame")
         #encode the target column
         encoder=LabelEncoder()
-        df["target_column"]= encoder.fit_transform(df["target_column"])
+        df["Category"]= encoder.fit_transform(df["Category"])
         logger.debug("Target column encoded")
 
         #Remove duplicate rows
@@ -63,7 +63,7 @@ def data_preprocess(df, text_column="Message", target_column= "Category"):
         logger.debug("Duplicates removed")
 
         #Apply text transformation to the specified text column
-        df.loc[:, text_column]= df[text_column].apply(transform_text)
+        df.loc[:, "Message"]= df["Message"].apply(transform_text)
         logger.debug("Text column transformed")
         return df
    
@@ -80,8 +80,8 @@ def main(text_column= "Message", target_column="Category"):
     try:
         #Fetch the data from raw
 
-        train_dat=pd.read_csv("./data/raw/train.cv")
-        test_data=pd.read_csv("./data/raw/test.cv")
+        train_data=pd.read_csv('./data/raw/train.csv')
+        test_data=pd.read_csv("./data/raw/test.csv")
         logger.debug("Data loaded properly")
 
         #Transform the data
