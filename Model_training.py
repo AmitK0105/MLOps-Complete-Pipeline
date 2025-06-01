@@ -85,7 +85,7 @@ def main():
     try:
         params = {"n_estimators": 25, "random_state": 2}
         
-        train_data = load_data(r"E:\git-tutorial\MLOps-OOP\MLOps-Complete-Pipeline\Experiment\src\data\processed\train_tfidf.csv")
+        train_data = load_data(r"E:\git-tutorial\MLOps-OOP\MLOps-Complete-Pipeline\Experiment\src\data\features\train_tfidf.csv")
         
         x_train = train_data.iloc[:, :-1].values
         y_train = train_data.iloc[:, -1].values  # corrected to last column for labels

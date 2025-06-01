@@ -4,3 +4,6 @@
 2025-05-13 16:05:07,751- Data Ingestion -DEBUG -Data loaded from https://raw.githubusercontent.com/AmitK0105/Dataset/refs/heads/main/spam.csv
 2025-05-13 16:05:07,756- Data Ingestion -DEBUG -Data Processing completed
 2025-05-13 16:05:07,860- Data Ingestion -DEBUG -train and test data saved to ./data\raw
+2025-06-01 22:09:22,348- Data Ingestion -DEBUG -Data loaded from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/spam.csv
+2025-06-01 22:09:22,357- Data Ingestion -DEBUG -Data Processing completed
+2025-06-01 22:09:22,405- Data Ingestion -DEBUG -train and test data saved to ./data\raw

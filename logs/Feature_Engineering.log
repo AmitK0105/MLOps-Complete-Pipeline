@@ -14,3 +14,18 @@
 2025-05-22 19:06:45,410- Feature Engineering -DEBUG -TF-IDF applied and data transformed
 2025-05-22 19:06:45,606- Feature Engineering -DEBUG -Data saved to ./data\processed\train_tfidf.csv
 2025-05-22 19:06:45,655- Feature Engineering -DEBUG -Data saved to ./data\processed\test_tfidf.csv
+2025-06-01 22:39:04,429- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/train_processed.csv
+2025-06-01 22:39:04,452- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/test_processed.csv
+2025-06-01 22:39:04,576- Feature Engineering -DEBUG -TF-IDF applied and data transformed
+2025-06-01 22:39:04,720- Feature Engineering -DEBUG -Data saved to ./data\processed\train_tfidf.csv
+2025-06-01 22:39:04,760- Feature Engineering -DEBUG -Data saved to ./data\processed\test_tfidf.csv
+2025-06-02 01:19:50,339- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/train_processed.csv
+2025-06-02 01:19:50,345- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/test_processed.csv
+2025-06-02 01:19:50,475- Feature Engineering -DEBUG -TF-IDF applied and data transformed
+2025-06-02 01:19:50,619- Feature Engineering -DEBUG -Data saved to ./data\processed\train_tfidf.csv
+2025-06-02 01:19:50,659- Feature Engineering -DEBUG -Data saved to ./data\processed\test_tfidf.csv
+2025-06-02 01:27:21,237- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/train_processed.csv
+2025-06-02 01:27:21,243- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/test_processed.csv
+2025-06-02 01:27:21,368- Feature Engineering -DEBUG -TF-IDF applied and data transformed
+2025-06-02 01:27:21,510- Feature Engineering -DEBUG -Data saved to ./data\features\train_tfidf.csv
+2025-06-02 01:27:21,550- Feature Engineering -DEBUG -Data saved to ./data\features\test_tfidf.csv

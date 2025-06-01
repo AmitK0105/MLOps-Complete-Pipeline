@@ -15,3 +15,43 @@
 2025-05-18 20:17:12,368- Data Prepocessing -DEBUG -Duplicates removed
 2025-05-18 20:17:17,650- Data Prepocessing -DEBUG -Text column transformed
 2025-05-18 20:17:17,674- Data Prepocessing -DEBUG -Processed data saved  to ./data\interim
+2025-06-01 22:09:27,187- Data Prepocessing -DEBUG -Data loaded properly
+2025-06-01 22:09:27,188- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:09:27,198- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:09:27,225- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:09:46,454- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:09:46,454- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:09:46,455- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:09:46,458- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:09:51,734- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:09:51,759- Data Prepocessing -DEBUG -Processed data saved  to ./data\interim
+2025-06-01 22:21:32,309- Data Prepocessing -DEBUG -Data loaded properly
+2025-06-01 22:21:32,310- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:21:32,323- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:21:32,345- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:21:51,866- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:21:51,866- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:21:51,867- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:21:51,869- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:21:57,055- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:21:57,077- Data Prepocessing -DEBUG -Processed data saved  to ./data\interim
+2025-06-01 22:36:32,927- Data Prepocessing -DEBUG -Data loaded properly
+2025-06-01 22:36:32,927- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:36:32,937- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:36:32,956- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:36:52,457- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:36:52,458- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:36:52,459- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:36:52,461- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:36:57,694- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:36:57,717- Data Prepocessing -DEBUG -Processed data saved  to ./data\processed
+2025-06-01 22:38:36,211- Data Prepocessing -DEBUG -Data loaded properly
+2025-06-01 22:38:36,212- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:38:36,214- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:38:36,218- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:38:56,417- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:38:56,418- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-06-01 22:38:56,419- Data Prepocessing -DEBUG -Target column encoded
+2025-06-01 22:38:56,421- Data Prepocessing -DEBUG -Duplicates removed
+2025-06-01 22:39:01,532- Data Prepocessing -DEBUG -Text column transformed
+2025-06-01 22:39:01,548- Data Prepocessing -DEBUG -Processed data saved  to ./data\processed

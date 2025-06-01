@@ -3,3 +3,15 @@
 2025-05-29 12:56:02,257- Model Development -DEBUG -Model training started with 4171 samples
 2025-05-29 12:56:02,439- Model Development -DEBUG -Model training completed
 2025-05-29 12:56:02,447- Model Development -DEBUG -Model saved to models/model.pkl
+2025-06-02 01:27:25,723- Model Development -ERROR -File not found [Errno 2] No such file or directory: 'E:\\git-tutorial\\MLOps-OOP\\MLOps-Complete-Pipeline\\Experiment\\src\\data\\processed\\train_tfidf.csv'
+2025-06-02 01:27:25,724- Model Development -ERROR -Failed to complete the model building process: [Errno 2] No such file or directory: 'E:\\git-tutorial\\MLOps-OOP\\MLOps-Complete-Pipeline\\Experiment\\src\\data\\processed\\train_tfidf.csv'
+2025-06-02 01:31:05,252- Model Development -DEBUG -Data Loaded from E:\git-tutorial\MLOps-OOP\MLOps-Complete-Pipeline\Experiment\src\data\features\train_tfidf.csv with shape (4171, 51)
+2025-06-02 01:31:05,262- Model Development -DEBUG -Initialize RandomForest Model with parameters {'n_estimators': 25, 'random_state': 2}
+2025-06-02 01:31:05,263- Model Development -DEBUG -Model training started with 4171 samples
+2025-06-02 01:31:05,452- Model Development -DEBUG -Model training completed
+2025-06-02 01:31:05,459- Model Development -DEBUG -Model saved to models/model.pkl
+2025-06-02 01:32:42,066- Model Development -DEBUG -Data Loaded from E:\git-tutorial\MLOps-OOP\MLOps-Complete-Pipeline\Experiment\src\data\features\train_tfidf.csv with shape (4171, 51)
+2025-06-02 01:32:42,068- Model Development -DEBUG -Initialize RandomForest Model with parameters {'n_estimators': 25, 'random_state': 2}
+2025-06-02 01:32:42,070- Model Development -DEBUG -Model training started with 4171 samples
+2025-06-02 01:32:42,254- Model Development -DEBUG -Model training completed
+2025-06-02 01:32:42,258- Model Development -DEBUG -Model saved to models/model.pkl

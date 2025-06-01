@@ -81,8 +81,8 @@ def main():
 
         train_df, test_df= apply_tfidf(train_data, test_data, max_feature)
 
-        save_data(train_df, os.path.join("./data", "processed", "train_tfidf.csv"))
-        save_data(test_df, os.path.join("./data", "processed", "test_tfidf.csv"))
+        save_data(train_df, os.path.join("./data", "features", "train_tfidf.csv"))
+        save_data(test_df, os.path.join("./data", "features", "test_tfidf.csv"))
 
     except Exception as e:
         logger.error("Falied to comlete the feature engineering process %s", e)

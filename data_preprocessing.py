@@ -91,7 +91,7 @@ def main(text_column= "Message", target_column="Category"):
 
         # store the data inside the data path
 
-        data_path= os.path.join("./data", "interim")
+        data_path= os.path.join("./data", "processed")
         os.makedirs(data_path, exist_ok=True)
 
         train_processed_data.to_csv(os.path.join(data_path, "train_processed.csv"), index=False)

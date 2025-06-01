@@ -1,40 +1,40 @@
 stages:
 
   data_ingestion:
-    cmd: python src/data_injection.py
+    cmd: python data_injection.py
     deps:
-      - src/data_injection.py
+      - data_injection.py
     outs:
       - data/raw
 
   data_preprocessing:
-    cmd: python src/data_preprocessing.py
+    cmd: python data_preprocessing.py
     deps:
-      - src/data_preprocessing.py
+      - data_preprocessing.py
       - data/raw
     outs:
       - data/processed
 
   feature_engineering:
-    cmd: python src/feature_engineering.py
+    cmd: python Feature_Engineering.py
     deps:
-      - src/feature_engineering.py
+      - Feature_Engineering.py
       - data/processed
     outs:
       - data/features
 
   model_training:
-    cmd: python src/model_training.py
+    cmd: python Model_training.py
     deps:
-      - src/model_training.py
+      - Model_training.py
       - data/features
     outs:
       - models/model.pkl
 
   model_evaluation:
-    cmd: python src/model_evaluation.py
+    cmd: python Model_evaluation.py
     deps:
-      - src/model_evaluation.py
+      - Model_evaluation.py
       - models/model.pkl
       - data/features
     outs:
