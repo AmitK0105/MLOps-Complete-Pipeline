@@ -1,0 +1,5 @@
+2025-05-29 12:56:02,249- Model Development -DEBUG -Data Loaded from E:\git-tutorial\MLOps-OOP\MLOps-Complete-Pipeline\Experiment\src\data\processed\train_tfidf.csv with shape (4171, 51)
+2025-05-29 12:56:02,256- Model Development -DEBUG -Initialize RandomForest Model with parameters {'n_estimators': 25, 'random_state': 2}
+2025-05-29 12:56:02,257- Model Development -DEBUG -Model training started with 4171 samples
+2025-05-29 12:56:02,439- Model Development -DEBUG -Model training completed
+2025-05-29 12:56:02,447- Model Development -DEBUG -Model saved to models/model.pkl

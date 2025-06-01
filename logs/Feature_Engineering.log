@@ -1,0 +1,16 @@
+2025-05-20 15:28:28,115- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-20 15:30:23,747- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-20 15:55:30,424- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-22 16:40:10,016- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-22 16:43:48,845- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-22 16:50:42,140- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-22 17:03:13,222- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-22 17:07:08,340- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/train_processed.csv'
+2025-05-22 19:04:03,735- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: 'E:\\git-tutorial\\MLOps-OOP\\MLOps-Complete-Pipeline\\Experiment\\src\\ train_processed.csv'
+2025-05-22 19:05:14,778- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/train_processed.csv
+2025-05-22 19:05:14,779- Feature Engineering -ERROR -Falied to comlete the feature engineering process [Errno 2] No such file or directory: '.data/interim/test_processed.csv'
+2025-05-22 19:06:44,988- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/train_processed.csv
+2025-05-22 19:06:45,035- Feature Engineering -DEBUG -Data loaded and NaN filled from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/test_processed.csv
+2025-05-22 19:06:45,410- Feature Engineering -DEBUG -TF-IDF applied and data transformed
+2025-05-22 19:06:45,606- Feature Engineering -DEBUG -Data saved to ./data\processed\train_tfidf.csv
+2025-05-22 19:06:45,655- Feature Engineering -DEBUG -Data saved to ./data\processed\test_tfidf.csv

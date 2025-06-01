@@ -1,0 +1,6 @@
+2025-05-13 16:02:40,252- Data Ingestion -DEBUG -Data loaded from https://raw.githubusercontent.com/AmitK0105/Dataset/refs/heads/main/spam.csv
+2025-05-13 16:02:40,266- Data Ingestion -ERROR -Missing column in the dataframe : "['Unnammed:2', 'Unnammed :3', 'Unnammed :4'] not found in axis"
+2025-05-13 16:02:40,268- Data Ingestion -ERROR -Failed to complete the data ingestion step : "['Unnammed:2', 'Unnammed :3', 'Unnammed :4'] not found in axis"
+2025-05-13 16:05:07,751- Data Ingestion -DEBUG -Data loaded from https://raw.githubusercontent.com/AmitK0105/Dataset/refs/heads/main/spam.csv
+2025-05-13 16:05:07,756- Data Ingestion -DEBUG -Data Processing completed
+2025-05-13 16:05:07,860- Data Ingestion -DEBUG -train and test data saved to ./data\raw

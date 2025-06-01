@@ -1,0 +1,17 @@
+2025-05-17 17:44:01,861- Data Prepocessing -ERROR -File not found [Errno 2] No such file or directory: './data/raw/train.cv'
+2025-05-18 20:04:06,014- Data Prepocessing -ERROR -File not found [Errno 2] No such file or directory: './data/raw/train.cv'
+2025-05-18 20:06:08,795- Data Prepocessing -ERROR -File not found [Errno 2] No such file or directory: './data/raw/train.cv'
+2025-05-18 20:09:16,691- Data Prepocessing -DEBUG -Data loaded properly
+2025-05-18 20:09:16,691- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-05-18 20:09:16,701- Data Prepocessing -ERROR -column not found 'target_column' 
+2025-05-18 20:09:16,703- Data Prepocessing -ERROR -Failed to complete the data transformation process 'target_column'
+2025-05-18 20:16:52,734- Data Prepocessing -DEBUG -Data loaded properly
+2025-05-18 20:16:52,734- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-05-18 20:16:52,743- Data Prepocessing -DEBUG -Target column encoded
+2025-05-18 20:16:52,773- Data Prepocessing -DEBUG -Duplicates removed
+2025-05-18 20:17:12,364- Data Prepocessing -DEBUG -Text column transformed
+2025-05-18 20:17:12,364- Data Prepocessing -DEBUG -Starting preprocessing the data frame
+2025-05-18 20:17:12,366- Data Prepocessing -DEBUG -Target column encoded
+2025-05-18 20:17:12,368- Data Prepocessing -DEBUG -Duplicates removed
+2025-05-18 20:17:17,650- Data Prepocessing -DEBUG -Text column transformed
+2025-05-18 20:17:17,674- Data Prepocessing -DEBUG -Processed data saved  to ./data\interim

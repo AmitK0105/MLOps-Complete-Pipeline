@@ -1,0 +1,18 @@
+2025-05-29 14:35:27,173- Model Evaluation -DEBUG -Model loaded  from E:\git-tutorial\MLOps-OOP\MLOps-Complete-Pipeline\Experiment\src\models\model.pkl
+2025-05-29 14:35:27,177- Model Evaluation -ERROR -Unexpected error occured while loading the data [Errno 22] Invalid argument: 'E:\\git-tutorial\\MLOps-OOP\\MLOps-Complete-Pipeline\\Experiment\\src\\data\\processed\test_tfidf.csv'
+2025-05-29 14:35:27,177- Model Evaluation -ERROR -Failed to complete the model evaluation process [Errno 22] Invalid argument: 'E:\\git-tutorial\\MLOps-OOP\\MLOps-Complete-Pipeline\\Experiment\\src\\data\\processed\test_tfidf.csv'
+2025-05-29 14:38:00,417- Model Evaluation -DEBUG -Model loaded  from ./models/model.pkl
+2025-05-29 14:38:00,420- Model Evaluation -ERROR -Unexpected error occured while loading the data [Errno 2] No such file or directory: './data/processed/test_tdidf.csv'
+2025-05-29 14:38:00,421- Model Evaluation -ERROR -Failed to complete the model evaluation process [Errno 2] No such file or directory: './data/processed/test_tdidf.csv'
+2025-05-29 14:40:11,318- Model Evaluation -DEBUG -Model loaded  from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/models/model.pkl
+2025-05-29 14:40:11,371- Model Evaluation -DEBUG -Data loaded from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/data/interim/test_processed.csv
+2025-05-29 14:40:11,377- Model Evaluation -ERROR -Error during model evaluation X has 1 features, but RandomForestClassifier is expecting 50 features as input.
+2025-05-29 14:40:11,378- Model Evaluation -ERROR -Failed to complete the model evaluation process X has 1 features, but RandomForestClassifier is expecting 50 features as input.
+2025-05-29 14:45:16,804- Model Evaluation -DEBUG -Model loaded  from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/models/model.pkl
+2025-05-29 14:45:16,816- Model Evaluation -DEBUG -Data loaded from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/data/processed/test_tfidf.csv
+2025-05-29 14:45:16,840- Model Evaluation -ERROR -Error during model evaluation 'RandomForestClassifier' object has no attribute 'predict_prob'
+2025-05-29 14:45:16,840- Model Evaluation -ERROR -Failed to complete the model evaluation process 'RandomForestClassifier' object has no attribute 'predict_prob'
+2025-05-29 14:52:50,200- Model Evaluation -DEBUG -Model loaded  from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/models/model.pkl
+2025-05-29 14:52:50,216- Model Evaluation -DEBUG -Data loaded from E:/git-tutorial/MLOps-OOP/MLOps-Complete-Pipeline/Experiment/src/data/processed/test_tfidf.csv
+2025-05-29 14:52:50,266- Model Evaluation -DEBUG -Model Evaluation metrics calculated
+2025-05-29 14:52:50,269- Model Evaluation -DEBUG -metrics saved to reports/metrics.json
